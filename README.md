@@ -4,7 +4,6 @@
 
 The public repository for Cornell's Database Systems Implementation course (Practicum).
 
-
 ## Creating a Private Fork
 
 You can create a private fork for your own convenience with the following steps.
@@ -21,7 +20,6 @@ a name of your preference in the *Repository Name* box. Below the description bo
 option.
 
 **Mirror-Push**. You now need to mirror the public DB Practicum repository.
-
 ```
 git push --mirror https://github.com/YOUR_USERNAME/REPO_NAME.git
 ```
