@@ -88,7 +88,6 @@ changes across different deliverables, and will make debugging easier (i.e. a wr
 degradation in an operator that used to work well in the past).
 
 ### Example
-
 When you start, the default branch will be the `main`. You can verify that by typing:
 
 ```$ git branch```
