@@ -60,7 +60,6 @@ upstream https://github.com/CornellDB/db_practicum.git (fetch)
 upstream DISABLE (push)
 ```
 **Sync-up**. In case we push new commits, you will need to sync-up your repo with the following command:
-
 ```
 git fetch upstream
 git rebase upstream/main
