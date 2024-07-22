@@ -4,6 +4,7 @@
 
 The public repository for Cornell's Database Systems Implementation course (Practicum).
 
+
 ## Creating a Private Fork
 
 You can create a private fork for your own convenience with the following steps.
@@ -14,6 +15,7 @@ You can create a private fork for your own convenience with the following steps.
 git clone --bare https://github.com/CornellDB/db_practicum.git db_practicum_tmp
 cd db_practicum_tmp
 ```
+
 
 **Create a Private Repository**. You can do that using the following [link](https://github.com/new). Pick up
 a name of your preference in the *Repository Name* box. Below the description box, make sure to select the **Private**
