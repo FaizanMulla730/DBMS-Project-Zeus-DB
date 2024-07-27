@@ -43,9 +43,7 @@ git remote set-url --push upstream DISABLE
 ```
 git remote -v
 ```
-
 If you have done everything correctly, your output should look as the following:
-
 ```
 origin git@github.com:YOUR_USERNAME/REPO_NAME.git (fetch)
 origin git@github.com:YOUR_USERNAME/REPO_NAME.git (push)
