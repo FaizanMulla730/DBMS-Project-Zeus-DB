@@ -14,7 +14,6 @@ You can create a private fork for your own convenience with the following steps.
 git clone --bare https://github.com/CornellDB/db_practicum.git db_practicum_tmp
 cd db_practicum_tmp
 ```
-
 **Create a Private Repository**. You can do that using the following [link](https://github.com/new). Pick up
 a name of your preference in the *Repository Name* box. Below the description box, make sure to select the **Private**
 option.
@@ -23,7 +22,6 @@ option.
 ```
 git push --mirror https://github.com/YOUR_USERNAME/REPO_NAME.git
 ```
-
 After this step, all the files of the public DB Practicum repository should have be cloned in your own private
 repository. You can now delete the `db_practicum_tmp` repo.
 
