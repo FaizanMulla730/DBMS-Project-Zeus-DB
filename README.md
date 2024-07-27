@@ -61,7 +61,6 @@ We will be using Java 18 for this assignment. Make sure to download and install 
 `JAVA_HOME` accordingly.
 
 ### Your first commit
-
 Edit the `config.properties` file and set the `TEAM_NAME` part with your team's name. Next, set the `DELIVERABLE`
 variable to `1`. Keep in mind to update the latter in every deliverable, so the produced jars have the correct names.
 For example, if you set your `TEAM_NAME` to `capybara` and `DELIVERABLE` to `3`, the `./gradlew build` command will
