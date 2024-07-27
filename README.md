@@ -92,11 +92,9 @@ For the first deliverable, create a new branch on top of the `main` branch as fo
 
 For the second deliverable, make sure you are on the `p1_deliverable` (you can check that using `git branch`). Create
 a new branch for the second deliverable on top of the `p1_deliverable` as follows:
-
 ```
 git checkout -b p2_deliverable
 ```
-
 Similar steps should be followed for each deliverable.
 
 ## Build Instructions
