@@ -60,9 +60,7 @@ git fetch upstream
 git rebase upstream/main
 ```
 ## General Instructions
-
 ### Java version
-
 We will be using Java 18 for this assignment. Make sure to download and install the correct Java version, and set
 `JAVA_HOME` accordingly.
 
