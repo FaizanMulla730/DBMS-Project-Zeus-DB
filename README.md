@@ -9,7 +9,6 @@ The public repository for Cornell's Database Systems Implementation course (Prac
 You can create a private fork for your own convenience with the following steps.
 
 **Clone**. First, you need to create a bare clone of the repository:
-
 ```
 git clone --bare https://github.com/CornellDB/db_practicum.git db_practicum_tmp
 cd db_practicum_tmp
@@ -26,7 +25,6 @@ After this step, all the files of the public DB Practicum repository should have
 repository. You can now delete the `db_practicum_tmp` repo.
 
 **Clone your Repo.** Clone your new private repository:
-
 ```
 git clone https://github.com/YOUR_USERNAME/REPO_NAME.git
 ```
