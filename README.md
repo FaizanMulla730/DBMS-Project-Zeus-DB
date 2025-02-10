@@ -2,7 +2,7 @@
 
 # Cornell Database Systems 
 
-The public repository for Cornell's Database Systems Implementation course (Practicum).
+The public repository for Cornell's Database Systems Implementation course.
 
 ## Creating a Private Fork
 
